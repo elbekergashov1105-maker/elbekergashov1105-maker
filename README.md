@@ -1,5 +1,5 @@
 ![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
