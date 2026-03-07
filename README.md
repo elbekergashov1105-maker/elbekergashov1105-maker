@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80" />
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80" />
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" />
-  <img src="https://media.giphy.com/media/9oO0F2tFqQqfK/giphy.gif" width="80" />
 </p>
 
 
