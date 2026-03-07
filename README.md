@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80" />
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" />
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/9/9f/PlayerUnknown%27s_Battlegrounds_logo.png" width="120" />
 </p>
 
 
