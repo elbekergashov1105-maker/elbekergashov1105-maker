@@ -5,12 +5,7 @@
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" />
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100" />
   <p align="center">
-  <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/87268759?v=4" 
-       width="250" 
-       style="max-width: 100%;" 
-       align="right">
-</p>
+  
 </p>
 
 
@@ -21,5 +16,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=server&logoColor=white)
 ![Frontend](https://img.shields.io/badge/Frontend-FF5722?style=for-the-badge&logo=html5&logoColor=white)
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/87268759?v=4" 
+       width="250" 
+       style="max-width: 100%;" 
+       align="right">
+</p>
 
 
