@@ -7,11 +7,12 @@
   <p align="left">
   
 </p>
+
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/cute-cat-programmer-working-laptop-cartoon-vector-icon-illustration-animal-technology-icon-isolated_138676-2394.jpg?w=740&q=80" 
+  <img src="https://img.freepik.com/free-vector/developer-programming-multiple-screens-cartoon-vector-icon-illustration-technology-people-icon-isolated_138676-2395.jpg?w=740&q=80" 
        width="250" 
        style="max-width: 100%;" 
-       alt="Cat Programmer">
+       alt="Developer with Multiple Screens">
 </p>
 
 
