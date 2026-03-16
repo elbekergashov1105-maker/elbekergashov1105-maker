@@ -8,11 +8,12 @@
   
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/vscode/vscode-original.svg" 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
        width="250" 
        style="max-width: 100%;" 
-       alt="VS Code Icon">
+       alt="Python Logo">
 </p>
+
 
 
 
