@@ -9,11 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/developer-programming-multiple-screens-cartoon-vector-icon-illustration-technology-people-icon-isolated_138676-2395.jpg?w=740&q=80" 
-       width="250" 
+  <img src="https://copilot.microsoft.com/th/id/BCO.4d5aa291-bd34-42bc-8c4a-efe62e8a170b.png" 
+       width="300" 
        style="max-width: 100%;" 
-       alt="Developer with Multiple Screens">
+       alt="Anime Boy with GitHub Laptop">
 </p>
+
 
 
 
