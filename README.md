@@ -9,11 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/geek-programmer-working-laptop-cartoon-vector-icon-illustration-technology-people-icon-isolated_138676-2390.jpg?w=740&q=80" 
+  <img src="https://img.freepik.com/free-vector/programmer-concept-illustration_114360-2921.jpg?w=740&q=80" 
        width="250" 
        style="max-width: 100%;" 
-       alt="Geek Programmer">
+       alt="Flat Programmer">
 </p>
+
 
 
 
