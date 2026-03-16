@@ -13,18 +13,12 @@
        style="max-width: 100%;" 
        align="right">
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&q=80" 
+  <img src="https://img.freepik.com/free-vector/software-developer-concept-illustration_114360-1679.jpg?w=740&q=80" 
        width="250" 
        style="max-width: 100%;" 
-       alt="Coding Setup">
+       alt="Flat Design Coder">
 </p>
 
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/woman-programmer-working-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-2384.jpg?w=740&q=80" 
-       width="250" 
-       style="max-width: 100%;" 
-       alt="Female Programmer">
-</p>
 
 
 
