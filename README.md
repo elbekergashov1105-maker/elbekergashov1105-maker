@@ -4,10 +4,10 @@
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80" />
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" />
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100" />
- <img align="right" 
-     src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/dev-mascot.png" 
-     width="300" 
-     style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/elbekergashov1105-maker/main/assets/dev-mascot.png" 
+       width="300" 
+       style="max-width: 100%;" 
+       align="right">
 </p>
 
 
