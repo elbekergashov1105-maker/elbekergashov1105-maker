@@ -15,6 +15,11 @@
        alt="Anime Boy with GitHub Laptop">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elbekergashov1105-maker/elbekergashov1105-maker/main/snike.svg" 
+       style="max-width: 100%;" 
+       alt="Snake animation">
+</p>
 
 
 
