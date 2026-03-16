@@ -5,7 +5,8 @@
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" />
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100" />
   <p align="center">
-  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-ic...ept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&q=80" 
+  <p align="center">
+  <img src="https://img.freepik.com/premium-vector/cute-cat-hacker-operating-laptop-mascot-technology-logo_513640-3219.jpg?w=740&q=80" 
        width="300" 
        style="max-width: 100%;" 
        align="right">
