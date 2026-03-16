@@ -12,19 +12,13 @@
        width="250" 
        style="max-width: 100%;" 
        align="right">
-</p>
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/cute-cat-hacker-operating-laptop-mascot-technology-logo_513640-3219.jpg?w=740&q=80" 
+  <img src="https://img.freepik.com/free-vector/programmer-working-computer-cartoon-vector-icon-illustration-technology-people-icon-isolated_138676-2385.jpg?w=740&q=80" 
        width="250" 
        style="max-width: 100%;" 
-       alt="Hacker Cat">
+       alt="Programmer at Desk">
 </p>
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&q=80" 
-       width="250" 
-       style="max-width: 100%;" 
-       alt="Hacker Operating Laptop">
-</p>
+
 
 
 
