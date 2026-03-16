@@ -7,17 +7,13 @@
   <p align="left">
   
 </p>
-<p align="right">
-  <img src="https://avatars.githubusercontent.com/u/87268759?v=4" 
-       width="250" 
-       style="max-width: 100%;" 
-       align="right">
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/artificial-intelligence-concept-illustration_114360-5529.jpg?w=740&q=80" 
+  <img src="https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/vscode/vscode-original.svg" 
        width="250" 
        style="max-width: 100%;" 
-       alt="AI and Coding">
+       alt="VS Code Icon">
 </p>
+
 
 
 
