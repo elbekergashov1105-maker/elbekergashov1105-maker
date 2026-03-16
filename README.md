@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/programmer-concept-illustration_114360-2921.jpg?w=740&q=80" 
+  <img src="https://img.freepik.com/free-vector/hacker-boy-cartoon-character-working-computer_138676-2393.jpg?w=740&q=80" 
        width="250" 
        style="max-width: 100%;" 
-       alt="Flat Programmer">
+       alt="Cartoon Hacker Boy">
 </p>
 
 
