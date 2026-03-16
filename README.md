@@ -21,7 +21,7 @@
   <img src="https://avatars.githubusercontent.com/u/87268759?v=4" 
        width="250" 
        style="max-width: 100%;" 
-       align="right">
+       align="center">
 </p>
 
 
