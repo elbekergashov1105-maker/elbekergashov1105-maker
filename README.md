@@ -1,16 +1,19 @@
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80" />
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80" />
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80" />
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" />
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100" />
-  <p align="center">
+  <p align="left">
   
 </p>
+<p align="right">
+  <img src="https://avatars.githubusercontent.com/u/87268759?v=4" 
+       width="250" 
+       style="max-width: 100%;" 
+       align="right">
+</p>
 
-
-
-<p align="center">
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -19,15 +22,10 @@
   ![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=server&logoColor=white)
   ![Frontend](https://img.shields.io/badge/Frontend-FF5722?style=for-the-badge&logo=html5&logoColor=white)
 
-</p>
 
 
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/87268759?v=4" 
-       width="250" 
-       style="max-width: 100%;" 
-       align="center">
-</p>
+
+
 
 
