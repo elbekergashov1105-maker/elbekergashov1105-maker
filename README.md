@@ -5,6 +5,12 @@
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" />
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100" />
 </p>
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-ic...ept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&q=80" 
+       width="300" 
+       style="max-width: 100%;" 
+       align="right">
+</p>
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
