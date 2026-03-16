@@ -20,11 +20,12 @@
        alt="Hacker Operating Laptop">
 </p>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/87268759?v=4" 
+  <img src="https://img.freepik.com/free-vector/cute-boy-programmer-working-laptop-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-2386.jpg?w=740&q=80" 
        width="250" 
        style="max-width: 100%;" 
-       alt="GitHub Avatar">
+       alt="Coding Boy">
 </p>
+
 
 
 
