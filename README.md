@@ -6,8 +6,8 @@
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100" />
   <p align="center">
   <p align="center">
-  <img src="https://img.freepik.com/premium-vector/cute-cat-hacker-operating-laptop-mascot-technology-logo_513640-3219.jpg?w=740&q=80" 
-       width="300" 
+  <img src="https://avatars.githubusercontent.com/u/87268759?v=4" 
+       width="250" 
        style="max-width: 100%;" 
        align="right">
 </p>
