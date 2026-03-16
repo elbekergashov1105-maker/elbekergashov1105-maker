@@ -13,11 +13,12 @@
        style="max-width: 100%;" 
        align="right">
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/software-developer-concept-illustration_114360-1679.jpg?w=740&q=80" 
+  <img src="https://img.freepik.com/free-vector/artificial-intelligence-concept-illustration_114360-5529.jpg?w=740&q=80" 
        width="250" 
        style="max-width: 100%;" 
-       alt="Flat Design Coder">
+       alt="AI and Coding">
 </p>
+
 
 
 
