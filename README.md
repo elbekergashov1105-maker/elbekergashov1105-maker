@@ -7,13 +7,13 @@
   <p align="left">
   
 </p>
-
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/hacker-boy-cartoon-character-working-computer_138676-2393.jpg?w=740&q=80" 
+  <img src="https://img.freepik.com/free-vector/cute-cat-programmer-working-laptop-cartoon-vector-icon-illustration-animal-technology-icon-isolated_138676-2394.jpg?w=740&q=80" 
        width="250" 
        style="max-width: 100%;" 
-       alt="Cartoon Hacker Boy">
+       alt="Cat Programmer">
 </p>
+
 
 
 
