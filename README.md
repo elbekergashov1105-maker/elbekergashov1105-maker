@@ -19,6 +19,13 @@
        style="max-width: 100%;" 
        alt="Hacker Operating Laptop">
 </p>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/87268759?v=4" 
+       width="250" 
+       style="max-width: 100%;" 
+       alt="GitHub Avatar">
+</p>
+
 
 
   
