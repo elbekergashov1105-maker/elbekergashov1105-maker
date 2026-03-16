@@ -15,12 +15,7 @@
        alt="Anime Boy with GitHub Laptop">
 </p>
 
-<p align="center">
-  <img src="https://yourdomain.com/github-coder.gif" 
-       width="300" 
-       style="max-width: 100%;" 
-       alt="Animated GitHub Coder">
-</p>
+
 
 
 
