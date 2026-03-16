@@ -19,6 +19,12 @@
        alt="Coding Setup">
 </p>
 
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/woman-programmer-working-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-2384.jpg?w=740&q=80" 
+       width="250" 
+       style="max-width: 100%;" 
+       alt="Female Programmer">
+</p>
 
 
 
