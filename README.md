@@ -8,12 +8,6 @@
   
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/elbekergashov1105-maker/Yangiliklar-sayti/main/static/images/anime-boy.png" 
-       width="300" 
-       style="max-width: 100%;" 
-       alt="Anime Boy with GitHub Laptop">
-</p>
 
 
 
