@@ -9,11 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.4d5aa291-bd34-42bc-8c4a-efe62e8a170b.png" 
+  <img src="https://raw.githubusercontent.com/elbekergashov1105-maker/Yangiliklar-sayti/main/static/images/anime-boy.png" 
        width="300" 
        style="max-width: 100%;" 
        alt="Anime Boy with GitHub Laptop">
 </p>
+
 
 
 
